@@ -1,0 +1,9 @@
+{
+  "carnivores":[
+	{"name":"Wolfe"},
+	{"name":"Lion"},
+	{"name":"Bear"},
+	{"name":"Fox"},
+	{"name":"Hawk"}
+]
+}
